@@ -1,0 +1,50 @@
+{
+  "id": 0,
+  "profarma_date": "",
+  "customer": {
+    "id": 23423432,
+    "address": "dfdfgdfstg"
+  },
+  "products":[
+    {
+      "id":1,
+      "hsn": "dsfadsadefgrsgfs",
+      "qty": 4,
+      "uom_id": 1,
+      "price": 454.56,
+      "discount": 45454,
+      "tax_id": 1,
+      "total": 43434.5445456
+    },
+    {
+      "id":2,
+      "hsn": "grsgfs",
+      "qty": 1,
+      "uom_id": 1,
+      "price": 54.56,
+      "discount": 454,
+      "tax_id": 1,
+      "total": 434.556
+    },
+    {
+      "id":3,
+      "hsn": "efgrsgfs",
+      "qty": 4,
+      "uom_id": 1,
+      "price": 4.56,
+      "discount": 44,
+      "tax_id": 1,
+      "total": 43456
+    },
+    {
+      "id":4,
+      "hsn": "efgrsgfs",
+      "qty": 4,
+      "uom_id": 1,
+      "price": 454.56,
+      "discount": 45454,
+      "tax_id": 1,
+      "total": 43434.5445456
+    }
+  ]
+}
